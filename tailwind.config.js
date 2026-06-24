@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Geist', 'sans-serif'],
+        sans: ['Tajawal', 'sans-serif'],
       },
       colors: {
         background: '#000000',
