@@ -140,7 +140,7 @@ function App() {
           className="flex-1 relative z-10 flex justify-center md:justify-end"
         >
           <div className="relative w-full max-w-[420px] aspect-[4/5] rounded-[32px] overflow-hidden glass-panel p-2">
-             <img src="/hero-mockup.png" alt="Sawa App Interface" className="w-full h-full object-cover rounded-[24px]" />
+             <img src="./hero-mockup.png" alt="Sawa App Interface" className="w-full h-full object-cover rounded-[24px]" />
           </div>
         </motion.div>
       </section>
@@ -154,7 +154,7 @@ function App() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           <div className="md:col-span-2 glass-panel rounded-[32px] p-8 md:p-12 overflow-hidden relative min-h-[400px] flex flex-col">
             <div className="absolute inset-0 z-0">
-               <img src="/feature-mesh.png" alt="Mesh Network" className="w-full h-full object-cover opacity-60 mix-blend-screen" />
+               <img src="./feature-mesh.png" alt="Mesh Network" className="w-full h-full object-cover opacity-60 mix-blend-screen" />
                <div className="absolute inset-0 bg-gradient-to-t from-surface to-transparent" />
             </div>
             <div className="relative z-10 mt-auto">
